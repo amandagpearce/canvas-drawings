@@ -1,0 +1,14 @@
+      #art-canvas{
+        border:1px solid #ccc;
+        margin:0 auto;
+        left: 0;
+        right: 0;
+        position: relative;
+        display: block;
+      }
+      h3 {
+        text-align: center;
+        font-family: tahoma;
+        color: #FF5722;
+        font-weight: lighter;
+    }
